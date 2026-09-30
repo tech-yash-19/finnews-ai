@@ -1,0 +1,6 @@
+{
+  "name": "FinNews AI - Financial News Simplification Platform",
+  "description": "AI-powered financial news simplification and market intelligence platform that transforms complex financial news, earnings reports, and economic events into concise, jargon-free explanations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
